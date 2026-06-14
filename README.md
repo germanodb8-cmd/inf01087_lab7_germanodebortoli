@@ -7,4 +7,4 @@ Disciplina: INF01087
 Me chamo Germano e sou estudante de Ciência da Computação.
 
 ## Projeto
-Este projeto é do lab7 sobre Git e GitHub.
+Este projeto é do lab7 e é sobre Git e GitHub.
